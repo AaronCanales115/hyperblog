@@ -2,5 +2,9 @@ Hola soy aaron canales de Nicaragua tengo 22 años
 y actualmente vivo en Los Estados Unidos
 hoy hablaremos de su vida y obra maestra
 
+<<<<<<< HEAD
 master1
 master 2
+=======
+master 1
+>>>>>>> 545ac40 (exp 1)
