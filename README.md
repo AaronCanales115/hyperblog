@@ -9,6 +9,7 @@ Un blog para el [ curso de Git y Github ](https://platzi.com/cursos/git-github/ 
 * El flujo de trabajo en github
 * Creado por Platzi 
 * Incluye ejemplos
+* Disponible para todas las edades
 
 recordatorio: **Suscribete**
 
